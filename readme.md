@@ -1,3 +1,29 @@
+Identitas Laporan
+
+
+| Keterangan     | Detail                                     |
+| -------------- | ------------------------------------------ |
+| Mata Kuliah    | Etika Profesi A                            |
+| Dosen Pengampu | Adi Wahyu Pribadi, S.Si., M.Kom            |
+| Kelompok       | Kelompok 13                                |
+| Institusi      | Universitas Pancasila — Teknik Informatika |
+| Semester       | Genap 2025/2026                            |
+
+
+
+| NPM        | Nama                     |
+| ---------- | ------------------------ |
+| 4524210124 | Reno Budiman             |
+| 4524210077 | Nayunda Krisna Abi Pasya |
+| 4524210095 | Rofif Rizkullah Hisyam   |
+| 4524210128 | Akmal Alief Ramadhan     |
+| 4524210118 | Rangga Veda Aswangga     |
+
+
+
+
+
+
 Analisis Kritis Kasus: Ransomware Bank Syariah Indonesia (BSI) 2023
 Deskripsi Kasus
 
