@@ -26,7 +26,7 @@ Anggota Kelompok
 
 
 
-# Analisis Kritis Kasus: Ransomware Bank Syariah Indonesia (BSI) 2023
+# Analisis Kasus: Ransomware Bank Syariah Indonesia (BSI) 2023
 
 ## Deskripsi Kasus
 
