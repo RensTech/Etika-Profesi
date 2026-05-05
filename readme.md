@@ -1,3 +1,10 @@
+##Tools yang dipakai untuk membuat video presentasi ini
+<img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+
+Link YouTube
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@USERNAME_KAMU](https://youtu.be/nQduUctuD1Q?si=oXB3K-YTabtNqqwx))
+
 Identitas Laporan
 
 
