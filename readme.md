@@ -1,11 +1,11 @@
-## Tools yang dipakai untuk membuat video presentasi ini
+## Tools yang dipakai untuk membuat video presentasi ini.
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=00897B&color=00897B&logoWidth=20" style="border-radius: 20px;"/>
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" style="border-radius: 20px;"/>
 </p>
 
-## Link YouTube
+## Link YouTube.
 
 <p>
   <a href="https://youtu.be/nQduUctuD1Q?si=oXB3K-YTabtNqqwx">
