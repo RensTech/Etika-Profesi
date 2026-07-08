@@ -74,8 +74,9 @@ Laporan ini disusun untuk memenuhi capaian pembelajaran mata kuliah **Etika Prof
 
 📺 **Video Presentasi (Unlisted)**
 
+[![YouTube Presentation](https://img.shields.io/badge/▶️_Watch_Presentation-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/zrF6QkQe9cc?si=A3tldrQ_CmtOKng3)
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20Presentation-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/zrF6QkQe9cc?si=0EtjUD2FpCBsa5zc))
+[![Watch Presentation](https://img.youtube.com/vi/zrF6QkQe9cc/maxresdefault.jpg)](https://youtu.be/zrF6QkQe9cc?si=A3tldrQ_CmtOKng3)
 
 *(Video/Penjelasan mengenai topik ini akan kami ringkas saat presentasi VIA YouTube dikakrenakan durasi yang terlalu panjang apabila seluruh Readme.MD dibaca semua. Terima Kasih)*
 
