@@ -12,6 +12,19 @@
 ![Status](https://img.shields.io/badge/Status-Final-success)
 ![License](https://img.shields.io/badge/Academic-Assignment-lightgrey)
 
+
+# Tautan Presentasi
+
+📺 **Video Presentasi (Unlisted)**
+
+[![YouTube Presentation](https://img.shields.io/badge/▶️_Watch_Presentation-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/zrF6QkQe9cc?si=A3tldrQ_CmtOKng3)
+
+[![Watch Presentation](https://img.youtube.com/vi/zrF6QkQe9cc/maxresdefault.jpg)](https://youtu.be/zrF6QkQe9cc?si=A3tldrQ_CmtOKng3)
+
+*(Video/Penjelasan mengenai topik ini akan kami ringkas saat presentasi VIA YouTube dikakrenakan durasi yang terlalu panjang apabila seluruh Readme.MD dibaca semua. Terima Kasih)*
+
+---
+
 ---
 
 # Identitas Laporan
@@ -68,19 +81,7 @@ Laporan ini disusun untuk memenuhi capaian pembelajaran mata kuliah **Etika Prof
 | ✅ Sub-CPMK8 | Demonstrasi hasil investigasi dalam forum profesional (presentasi) |
 | ✅ Sub-CPMK9 | Refleksi prinsip etika ke dalam integritas karier sebagai calon profesional TI |
 
----
 
-# Tautan Presentasi
-
-📺 **Video Presentasi (Unlisted)**
-
-[![YouTube Presentation](https://img.shields.io/badge/▶️_Watch_Presentation-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/zrF6QkQe9cc?si=A3tldrQ_CmtOKng3)
-
-[![Watch Presentation](https://img.youtube.com/vi/zrF6QkQe9cc/maxresdefault.jpg)](https://youtu.be/zrF6QkQe9cc?si=A3tldrQ_CmtOKng3)
-
-*(Video/Penjelasan mengenai topik ini akan kami ringkas saat presentasi VIA YouTube dikakrenakan durasi yang terlalu panjang apabila seluruh Readme.MD dibaca semua. Terima Kasih)*
-
----
 
 # Deskripsi Singkat Kasus
 
