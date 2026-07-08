@@ -76,7 +76,7 @@ Laporan ini disusun untuk memenuhi capaian pembelajaran mata kuliah **Etika Prof
 
 > https://www.youtube.com/watch?v=XXXXXXXXXXX
 
-*(Tautan akan diperbarui setelah video presentasi diunggah.)*
+*(Video/Penjelasan mengenai topik ini akan kami ringkas saat presentasi VIA YouTube dikakrenakan durasi yang terlalu panjang apabila seluruh Readme.MD dibaca semua. Terima Kasih)*
 
 ---
 
